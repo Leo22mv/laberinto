@@ -1,0 +1,191 @@
+#head {
+    background-color: black;
+    width: 500px;
+    height: 50px;
+    color: white;
+}
+
+#tablero {
+    background-color: grey;
+    width: 500px;
+    height: 500px;
+}
+
+#player {
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    /* transition: all 0.3s; */
+}
+
+#controles {
+    background-color: black;
+    width: 500px;
+    height: 125px;
+}
+#l {
+    background-color: lightgray;
+    width: 105px;
+    height: 105px;
+    position: relative;
+    top: 10px;
+    bottom: 10px;
+    left: 10px;
+}
+#up {
+    background-color: lightgray;
+    width: 105px;
+    height: 105px;
+    position: relative;
+    bottom: 95px;
+    left: 135px;
+}
+#bot {
+    background-color: lightgray;
+    width: 105px;
+    height: 105px;
+    position: relative;
+    bottom: 200px;
+    left: 260px;
+}
+#r {
+    background-color: lightgray;
+    width: 105px;
+    height: 105px;
+    position: relative;
+    bottom: 305px;
+    left: 385px;
+}
+#p1 {
+    background-color: black;
+    width: 50px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+}
+#p2 {
+    background-color: black;
+    width: 50px;
+    height: 250px;
+    position: relative;
+}
+#p3 {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+}
+#p4 {
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    bottom: 300px;
+}
+#p5 {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 150px;
+    bottom: 400px;
+}
+#p6 {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 150px;
+    bottom: 550px;
+}
+#p7 {
+    background-color: black;
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 150px;
+    bottom: 650px;
+}
+#p8 {
+    background-color: black;
+    width: 50px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+    bottom: 650px;
+}
+#p9 {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 350px;
+    bottom: 700px;
+}
+#p10 {
+    
+    background-color: black;
+    width: 50px;
+    height: 150px;
+    position: relative;
+    left: 250px;
+    bottom: 850px;
+}
+#p11 {
+    
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 1000px;
+}
+#p12 {
+    
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 450px;
+    bottom: 800px;
+}
+#p13 {
+    
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 150px;
+    bottom: 850px;
+}
+#p14 {
+    
+    background-color: black;
+    width: 400px;
+    height: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 950px;
+}
+#p15 {
+    
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left: 250px;
+    bottom: 900px;
+}
+#llegada {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 950px;
+    left: 450px;
+}
