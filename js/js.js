@@ -190,7 +190,7 @@ function moverIzquierda() {
 
 function victoria () {
     if (arriba===450&&izquierda===450) {
-    alert("Ganaste, bien ahí")
+    alert("Ganaste")
     ganaste = 1
     }
 }
